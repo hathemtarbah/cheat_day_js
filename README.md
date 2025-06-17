@@ -1,7 +1,7 @@
 # We do a little more cheating
 
 i'm still not ashamed to admit it
-cheat day count: 8
+cheat day count: 9
 
 ## "Features"
 
